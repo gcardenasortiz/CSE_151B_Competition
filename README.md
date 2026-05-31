@@ -1,4 +1,4 @@
-# CSE_151B_Competition
+# CSE_151B_Spring_2026_Competition
 
 ## GPU Type and Approximate Generation/Inference Time
 
